@@ -15,18 +15,18 @@ Online Food Ordering System Website using basic React, Redux, PropTypes,vNode-Sa
 
 ## Installation
 ### Prerequisites
-- Webpack > v4.43.0
+- Webpack 
 - npm
 
 ### Setup
 Use the [git](https://git-scm.com/downloads) to clone the project to your local machine.
 ```sh
-$ git clone https://github.com/MalikImansaparov/Street-Workout-.git
+$ git clone https://github.com/MalikImansaparov/Restaurant-shop.git
 ```
 
 Navigate to the extracted folder
 ```sh 
-cd street-workout
+cd restaurant-shop
 ```
 
 Install the dependencies and modules

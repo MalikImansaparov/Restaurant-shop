@@ -1,4 +1,5 @@
 import React from 'react';
+import './error.scss'
 import icon from './death-star.png'
 
 const Error = () => {

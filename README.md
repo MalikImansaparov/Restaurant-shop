@@ -1,5 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Preview - https://malikimansaparov.github.io/Restaurant-shop/
 Online Food Ordering System Website using basic React, Redux, PropTypes, node-sass. You can use Json-Server to run the Web App on your local machine. It has a food menu and ordering module for a customer.
 
 ### Built With

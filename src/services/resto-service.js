@@ -1,5 +1,5 @@
 export default class RestoService{
-    _apiBase = 'http://localhost:3000';
+    _apiBase = 'https://my-json-server.typicode.com/malikImansaparov/restore-server/';
 
     async getResource(url) {
         const res = await fetch(`${this._apiBase}${url}`);

@@ -13,7 +13,6 @@ Online Food Ordering System Website using basic React, Redux, PropTypes, node-sa
 - CRA-template
 - mini-create-react-context
 
-## Installation
 ### Prerequisites
 - Webpack 
 - npm
